@@ -1,0 +1,18 @@
+# ignore all files below
+*.class
+.gitkeep
+.classpath
+.project
+*.prefs
+*.iml
+
+# ignore all files under below folders
+*/bin/
+*/target/
+/lib/
+/RemoteSystemsTempFiles/
+/Servers/
+/.metadata/
+/.recommenders/
+/.idea/
+*/.settings/
